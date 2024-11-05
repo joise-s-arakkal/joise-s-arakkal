@@ -13,7 +13,7 @@
   <a href="https://kaggle.com/joisesarakkal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://www.leetcode.com/joise-s-arakkal" target="_blank">
+  <a href="https://leetcode.com/u/joise-s-arakkal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
