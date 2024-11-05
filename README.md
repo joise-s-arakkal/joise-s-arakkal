@@ -7,13 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/joise_s_arakkal" target="_blank">
+  <a href="https://linkedin.com/in/joise-s-arakkal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://kaggle.com/joisesarakkal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://leetcode.com/u/joise-s-arakkal/" target="_blank">
+  <a href="https://leetcode.com/u/joise_s_arakkal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
