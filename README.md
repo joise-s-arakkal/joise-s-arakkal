@@ -37,4 +37,4 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joise-s-arakkal&show_icons=true&locale=en&layout=compact" alt="joise-s-arakkal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joise-s-arakkal&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="joise-s-arakkal" /></p>
