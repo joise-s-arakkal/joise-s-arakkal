@@ -6,6 +6,7 @@
 - 📫 How to reach me **joisesarakkal007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/joise-s-arakkal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,7 +14,15 @@
   <a href="https://leetcode.com/u/joise_s_arakkal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
+  <a href="https://huggingface.co/joise-s-arakkal" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b31e2a21-64c0-4ede-864d-4cd78f7fc6fc" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost">
+  </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
