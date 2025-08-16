@@ -1,31 +1,47 @@
-<h1 align="left">Hi 👋, I'm Joise S Arakkal</h1>
-<h3 align="left">I'm a passionate learner and developer specializing in AI/ML, data visualization, and web development. My journey in tech includes building projects, solving complex problems, and continuously learning new concepts.</h3>
-
-- 🌱 I’m currently learning **BTech AIML**
-
-- 📫 How to reach me **joisesarakkal007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/joise-s-arakkal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/joise_s_arakkal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://huggingface.co/joise-s-arakkal" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/b31e2a21-64c0-4ede-864d-4cd78f7fc6fc" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost">
-  </a>
+<h1 align="center">Hi there 👋, I'm Joise S Arakkal</h1>
+<p align="center">
+  <b>AI/ML Enthusiast | Data Visualizer | Web Developer | Lifelong Learner</b><br>
+  <i>Building solutions, exploring new technologies, and connecting ideas!</i>
 </p>
 
+---
 
+### 🚀 About Me
+- 🤖 I love AI/ML, data visualization, and web development.
+- 🎓 Currently pursuing BTech in Artificial Intelligence & Machine Learning.
+- 🛠️ I enjoy creating projects, solving real-world problems, and always learning something new.
+- 💬 Ask me about Python, ML, web technologies, or any cool tech trends!
+- 📫 Reach me at: **joisesarakkal007@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
+
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/joise-s-arakkal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/joise_s_arakkal/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://huggingface.co/joise-s-arakkal" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b31e2a21-64c0-4ede-864d-4cd78f7fc6fc" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost"></a>
+</p>
+
+---
+
+### 🏆 Highlights & Achievements
+- 🥇 Completed multiple AI/ML and Cloud certifications
+- 🛠️ Contributed to open-source projects in Python and data science
+- 📝 Published models on Hugging Face
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joise-s-arakkal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joise-s-arakkal&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -42,4 +58,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joise-s-arakkal&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="joise-s-arakkal" /></p>
+---
+
+
+<p align="center"><i>Let’s connect, collaborate, and create something amazing!</i></p>
